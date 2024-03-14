@@ -1,1 +1,8 @@
-# Exolegend
+# Introduction
+Between the 15th and the 18th of February 2024, I participated with two friends in a coding competition (hackathon) called EXOLEGENDS. The objective was to develop a robot that follows an algorithm in an arena to gain points. This year, the arena was a maze divided into small sections. The goal was to capture these sections and paint them, akin to the mechanics of the game Splatoon. Each match involved opposing teams, and the winner was determined by the team that scored the most points. If you are interested in learning more about the rules, you can refer to the directory ```/docs```.
+
+# Project Overview
+Our main code is located in the ```/src``` directory and is written in C++. While it was my first experience with C++, my familiarity with C and some knowledge of Java made the transition relatively smooth. Over the course of 72 hours, we worked tirelessly, sacrificing sleep to focus on coding and strategizing. However, our decision to forgo sleep in favor of concentrating on coding and strategy proved to be less effective than anticipated. In retrospect, allocating time for strategic planning prior to the final day would have been more efficient. Ultimately, we finished 33rd out of 50 teams, which was a bit disappointing. Nonetheless, we gained valuable insights into managing pressure and stress in high-stakes environments.
+
+# Acknowledgements
+I would like to express my gratitude to Romain Duhr @romainduhr and Amaury Becquet, my two friends who accompanied me to this competition. It was an unforgettable experience, and we look forward to participating in the next edition!
